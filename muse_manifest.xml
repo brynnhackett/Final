@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hackettmusefinal.com" resolutions="1x" timestamp="1544447304667">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="4butterfly.css" crc="219778305" ref="4butterfly"/>
+    <file name="1sea-monster.css" crc="4111866183" ref="1sea-monster"/>
+    <file name="index.css" crc="4104264063" ref="index"/>
+    <file name="5basketball.css" crc="236482685" ref="5basketball"/>
+    <file name="6ufo.css" crc="388251919" ref="6ufo"/>
+    <file name="3untitled-3.css" crc="4140177074" ref="3untitled-3"/>
+    <file name="7hang-glider.css" crc="4227281452" ref="7hang-glider"/>
+    <file name="2giant-octopus.css" crc="180913011" ref="2giant-octopus"/>
+  </folder>
+  <folder name="assets">
+    <file name="traffic-jam-sound-effect.mp3" crc="3761880078" seo="true" mt="1544413780000"/>
+    <file name="park-ambience-sound-effect-people-park-sound-effects.mp3" crc="241251073" seo="true" mt="1544413847000"/>
+    <file name="firework-display-sound-effect.mp3" crc="120595761" seo="true" mt="1544413968000"/>
+    <file name="ocean-sound-effect--hd-.mp3" crc="346831298" seo="true" mt="1544413923000"/>
+    <file name="city-sound-effect-1---downtown.mp3" crc="3994807308" seo="true" mt="1544414827000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+    <file name="museutils.js" crc="340535759" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:5basketball"/>
+    <file name="require.js" crc="7928878" ref="index:1sea-monster:3untitled-3:4butterfly:6ufo:7hang-glider:2giant-octopus:5basketball"/>
+  </folder>
+  <folder name="images">
+    <file name="u1260-4.png" crc="92628187" ref="index"/>
+    <file name="u1264-4.png" crc="454133434" ref="index"/>
+    <file name="u1267-4.png" crc="326753348" ref="index"/>
+    <file name="u1270-4.png" crc="415497720" ref="index"/>
+    <file name="u1273-4.png" crc="3854541200" ref="index"/>
+    <file name="u1276-4.png" crc="4208514486" ref="index"/>
+    <file name="u1279-4.png" crc="94849241" ref="index"/>
+    <file name="u1282-4.png" crc="120842507" ref="index"/>
+    <file name="u1285-4.png" crc="4115145673" ref="index"/>
+    <file name="u1288-4.png" crc="525764324" ref="index"/>
+    <file name="u1297-4.png" crc="415497720" ref="index"/>
+    <file name="u1300-4.png" crc="94849241" ref="index"/>
+    <file name="u1303-4.png" crc="3854541200" ref="index"/>
+    <file name="u1306-4.png" crc="3854541200" ref="index"/>
+    <file name="u1309-4.png" crc="454133434" ref="index"/>
+    <file name="u1312-4.png" crc="454133434" ref="index"/>
+    <file name="u1315-4.png" crc="3854541200" ref="index"/>
+    <file name="u1318-4.png" crc="3854541200" ref="index"/>
+    <file name="u1321-4.png" crc="3854541200" ref="index"/>
+    <file name="u1324-4.png" crc="4115145673" ref="index"/>
+    <file name="u1330-4.png" crc="14316476" ref="index"/>
+    <file name="u1333-4.png" crc="119916714" ref="index"/>
+    <file name="u1336-4.png" crc="4105773365" ref="index"/>
+    <file name="u1342-4.png" crc="288736203" ref="index"/>
+    <file name="u1360-4.png" crc="4115145673" ref="index"/>
+    <file name="u1363-4.png" crc="76660272" ref="index"/>
+    <file name="pasted-svg-197437x95.svg" crc="3771690630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 197437x95_poster_.png" crc="207011500" ref="index"/>
+    <file name="download (1).jpg" crc="51619794" seo="true" ref="1sea-monster">
+      <caption webpage="1sea-monster" alt=""/>
+    </file>
+    <file name="pasted-svg-82106x31.svg" crc="75322974" seo="true" ref="1sea-monster">
+      <caption webpage="1sea-monster" alt=""/>
+    </file>
+    <file name="pasted svg 82106x31_poster_.png" crc="4014815053" ref="1sea-monster"/>
+    <file name="download.jpg" crc="455903246" seo="true" ref="3untitled-3">
+      <caption webpage="3untitled-3" alt=""/>
+    </file>
+    <file name="download.png" crc="3840554919" seo="true" ref="3untitled-3">
+      <caption webpage="3untitled-3" alt=""/>
+    </file>
+    <file name="pasted-svg-137287x188.svg" crc="4162178259" seo="true" ref="3untitled-3">
+      <caption webpage="3untitled-3" alt=""/>
+    </file>
+    <file name="pasted svg 137287x188_poster_.png" crc="272477341" ref="3untitled-3"/>
+    <file name="20746336_1621217307910858_9217416557433294982_o.jpg" crc="214855265" seo="true" ref="4butterfly">
+      <caption webpage="4butterfly" alt=""/>
+    </file>
+    <file name="pasted-svg-171945x120.svg" crc="456822795" seo="true" ref="4butterfly">
+      <caption webpage="4butterfly" alt=""/>
+    </file>
+    <file name="pasted svg 171945x120_poster_.png" crc="138273635" ref="4butterfly"/>
+    <file name="img_6531.jpg" crc="3941269207" seo="true" ref="6ufo">
+      <caption webpage="6ufo" alt=""/>
+    </file>
+    <file name="pasted-svg-22512x111.svg" crc="99701449" seo="true" ref="6ufo">
+      <caption webpage="6ufo" alt=""/>
+    </file>
+    <file name="pasted svg 22512x111_poster_.png" crc="176622967" ref="6ufo"/>
+    <file name="img_9756.jpg" crc="3974402696" seo="true" ref="7hang-glider">
+      <caption webpage="7hang-glider" alt=""/>
+    </file>
+    <file name="pasted-svg-24126x7.svg" crc="3982742768" seo="true" ref="7hang-glider">
+      <caption webpage="7hang-glider" alt=""/>
+    </file>
+    <file name="pasted svg 24126x7_poster_.png" crc="160006616" ref="7hang-glider"/>
+    <file name="img_0498.jpg" crc="426727899" seo="true" ref="2giant-octopus">
+      <caption webpage="2giant-octopus" alt=""/>
+    </file>
+    <file name="pasted-svg-38397x136.svg" crc="110818399" seo="true" ref="2giant-octopus">
+      <caption webpage="2giant-octopus" alt=""/>
+    </file>
+    <file name="pasted svg 38397x136_poster_.png" crc="150658222" ref="2giant-octopus"/>
+    <file name="pasted-svg-54759x153.svg" crc="4278014684" seo="true" ref="2giant-octopus">
+      <caption webpage="2giant-octopus" alt=""/>
+    </file>
+    <file name="pasted svg 54759x153_poster_.png" crc="377633164" ref="2giant-octopus"/>
+    <file name="pasted-svg-80426x36.svg" crc="442077065" seo="true" ref="2giant-octopus">
+      <caption webpage="2giant-octopus" alt=""/>
+    </file>
+    <file name="pasted svg 80426x36_poster_.png" crc="21240104" ref="2giant-octopus"/>
+    <file name="pasted-svg-24229x33.svg" crc="400043776" seo="true" ref="2giant-octopus">
+      <caption webpage="2giant-octopus" alt=""/>
+    </file>
+    <file name="pasted svg 24229x33_poster_.png" crc="4250919979" ref="2giant-octopus"/>
+    <file name="img_0728.jpg" crc="4019260505" seo="true" ref="5basketball">
+      <caption webpage="5basketball" alt=""/>
+    </file>
+    <file name="pasted-svg-1596x15.svg" crc="499020766" seo="true" ref="5basketball">
+      <caption webpage="5basketball" alt=""/>
+    </file>
+    <file name="pasted svg 1596x15_poster_.png" crc="385575333" ref="5basketball"/>
+  </folder>
+  <file name="index.html" crc="4252707903" seo="true" mt="1544416730692" redirect="true"/>
+  <file name="1sea-monster.html" crc="44937802" seo="true" mt="1544414934052" redirect="true"/>
+  <file name="3untitled-3.html" crc="387265909" seo="true" mt="1544447284966" redirect="true"/>
+  <file name="4butterfly.html" crc="386112637" seo="true" mt="1544414653082" redirect="true"/>
+  <file name="6ufo.html" crc="446199443" seo="true" mt="1544414639978" redirect="true"/>
+  <file name="7hang-glider.html" crc="240159760" seo="true" mt="1544415919296" redirect="true"/>
+  <file name="2giant-octopus.html" crc="4196182127" seo="true" mt="1544414667582" redirect="true"/>
+  <file name="5basketball.html" crc="4047808694" seo="true" mt="1544414754997" redirect="true"/>
+</manifest>
